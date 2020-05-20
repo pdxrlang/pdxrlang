@@ -24,6 +24,12 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
+    name = "Aggregate"
+    url  = "/aggregate/"
+    weight = 2
+
+
+[[menu.main]]
     name = "Blog"
     url  = "/blog/"
     weight = 2
