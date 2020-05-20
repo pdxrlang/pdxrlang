@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589937557282.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "235726745",
+    "id" : "20979124",
+    "lastKnownWriteTime" : 1589937603,
+    "last_content_update" : 1589937603766,
+    "path" : "C:/Code/pdxrlang/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "100,37",
+        "scrollLine" : "87"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
