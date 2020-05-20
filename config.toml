@@ -92,7 +92,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "pdxrlang@gmail.com"
 
-    about_us = "<p>We are the local R user group for Portland, Oregon. R is a free software environment for statistical computing and graphics (<a href="http://www.r-project.org/">http://www.r-project.org/</a>). Our goal is to support and share R experience and knowledge among its users in the Portland community. </p>"
+    about_us = "<p>We are the local R user group for Portland, Oregon. R is a free software environment for statistical computing and graphics (<a href='http://www.r-project.org/'>http://www.r-project.org/</a>). Our goal is to support and share R experience and knowledge among its users in the Portland community. </p>"
     copyright = "Copyright (c) 2015 - 2020, PDX R User Group."
 
     # Format dates with Go's time formatting
