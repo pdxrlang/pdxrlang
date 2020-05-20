@@ -130,7 +130,7 @@ paginate = 10
     search = true
 
 [params.carousel]
-    enable = false
+    enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
@@ -150,7 +150,7 @@ paginate = 10
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "PDX R User Group"
     subtitle = "This is the website for the PDX R User group. We meet monthly for a variety of events, including workshops, data discussions, and to learn to code together."
