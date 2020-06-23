@@ -29,30 +29,35 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
+    name = "Meetups"
+    url  = "/meetups/"
+    weight = 3
+    
+[[menu.main]]
     name = "About"
     url  = "/about/"
-    weight = 3
+    weight = 4
     
 [[menu.main]]
     name = "Code of Conduct"
     url  = "/code_of_conduct/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 8
 
 # Top bar social links menu
 
