@@ -32,7 +32,7 @@ paginate = 10
     name = "Meetups"
     url  = "/meetups/"
     weight = 3
-
+    
 [[menu.main]]
     name = "About"
     url  = "/about/"
