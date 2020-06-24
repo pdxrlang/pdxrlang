@@ -45,7 +45,7 @@ paginate = 10
 
 [[menu.main]]
     name = "LunchR"
-    url  = "/blog/"
+    url  = "/lunchr/"
     weight = 6
 
 [[menu.main]]
