@@ -3,4 +3,10 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-We are a community of R users in the greater Portland area. We organize monthly events where our goal is to exchange knowledge, learn new skills, help each other troubleshoot coding problems, and meet new fellow R users.
+We are the local R user group for Portland, Oregon. R is a free software environment for statistical computing and graphics. Our goal is to support and share R experience and knowledge among its users in the Portland community.
+
+We have regularly scheduled monthly meetups (aggregate) and also host other events.
+
+Follow news about the group on Twitter at @pdxrlang
+
+Join other pdxrlang’ers and other portland area data science folks at our slack https://pdxdata.slack.com
