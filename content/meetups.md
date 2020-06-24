@@ -4,7 +4,11 @@ TBD
 
 ### Past meetups
 
-*   2019-03-06 - [rstudio::conf 2019 Watch Party](https://www.meetup.com/portland-r-user-group/events/259131433/)
+*   2020-04-08 - [Tidy Tuesday Coding Club](https://www.meetup.com/portland-r-user-group/events/269668795/)
+*   2019-10-15 - [ruODK? Electronic Data Capture with R and ODK: From form design to insight in 0$](https://www.meetup.com/portland-r-user-group/events/264758652/)
+*   2019-09-21 - [Craggy: Data Vis, Collab, and Discussion about King County Evictions](https://www.meetup.com/portland-r-user-group/events/264696398/)
+*   2019-08-22 - [Craggy: Data Exploration Session via Zoom](https://www.meetup.com/portland-r-user-group/events/264205386/)
+*   2019-06-04 - [rstudio::conf 2019 Watch Party](https://www.meetup.com/portland-r-user-group/events/259131433/)
 *   2019-03-12 - [Introduction to Spatial Data Analysis with R](https://www.meetup.com/portland-r-user-group/events/258271365/)
 *   2019-04-30 - [Object Oriented Systems in R: S3, S4, and R6](https://www.meetup.com/portland-r-user-group/events/259511234/)
 *   2018-09-27 - [R Package Development Workshop](https://www.meetup.com/portland-r-user-group/events/253797396/)
