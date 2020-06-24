@@ -44,20 +44,14 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
-    name = "Blog"
+    name = "LunchR"
     url  = "/blog/"
     weight = 6
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 7
-
-[[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 8
+    weight = 7
 
 # Top bar social links menu
 
