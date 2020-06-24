@@ -1,5 +1,13 @@
+### Upcoming
+
+TBD
+
 ### Past
 
+*   2020-02-19 [noon @ Laughing Planet](https://www.meetup.com/portland-r-user-group/events/268122016/)
+*   2019-10-03 [noon @ Elephant's Deli](https://www.meetup.com/portland-r-user-group/events/264727318/)
+*   2019-07-19 [noon @ Elephant's Deli](https://www.meetup.com/portland-r-user-group/events/262625891/)
+*   2019-05-30 [noon @ Boke Bowl](https://www.meetup.com/portland-r-user-group/events/261029446/)
 *   2019-03-19 [noon @ Pine State Biscuits on SE Division](https://www.meetup.com/portland-r-user-group/events/258686920/)
 *   2019-01-03 [noon @ Teote](https://www.meetup.com/portland-r-user-group/events/257168228/?isFirstPublish=true)
 *   2018-12-04 [noon @ Marukin Ramen](https://www.meetup.com/portland-r-user-group/events/256443629/)
