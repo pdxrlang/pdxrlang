@@ -9,7 +9,7 @@ We have regularly scheduled monthly meetups (aggregate) and also host other even
 
 Follow news about the group on Twitter at [@pdxrlang](https://twitter.com/pdxrlang)
 
-Join other pdxrlang’ers and other portland area data science folks at our slack [](https://pdxdata.slack.com)
+Join other pdxrlang’ers and other portland area data science folks at our slack [https://pdxdata.slack.com](https://pdxdata.slack.com)
 
 
 Want to give a talk?
